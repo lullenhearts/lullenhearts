@@ -2,7 +2,7 @@
 
 ˖ ݁♬⋆.˚𝄞
 
-<a href="https://lulupt.straw.page">strawpage</a>
+<a href="https://lulupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
 
 <img src="./wonder-trio-desk.PNG" width="450">
 
