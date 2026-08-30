@@ -1,4 +1,14 @@
+<div align="center">
 
+˖ ݁♬⋆.˚𝄞
+
+<a href="https://lulupt.straw.page">strawpage</a>
+
+<img src="./wonder-trio.jpeg" width="600">
+
+“All men are not created 𝓔qual.. but 𝓣hat won't stop me!” ( ◡̀_◡́)ᕤ
+
+</div>
 
 <!--
 **lullenhearts/lullenhearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
