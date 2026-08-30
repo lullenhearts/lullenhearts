@@ -4,7 +4,7 @@
 
 <a href="https://lulupt.straw.page">strawpage</a>
 
-<img src="./wonder-trio.jpeg.PNG" width="600">
+<img src="./wonder-trio.jpeg.PNG" width="300">
 
 “All men are not created 𝓔qual.. but 𝓣hat won't stop me!” ( ◡̀_◡́)ᕤ
 
