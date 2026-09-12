@@ -4,7 +4,7 @@
 
 <a href="https://lulupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
 
-<img src="./wonder-trio-desk.PNG" width="450">
+<img src="Untitled239.png" width="450">
 
 “All men are not created 𝓔qual.. but 𝓣hat won't stop me!” ( ◡̀_◡́)ᕤ
 
