@@ -1,6 +1,6 @@
 <div align="center">
 
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+꒰ঌ ໒꒱
 
 <a href="https://lulupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
 
