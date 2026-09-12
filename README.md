@@ -6,7 +6,7 @@
 
 <img src="Untitled239.png" width="450"><br>
 
-“All men are not created equal.. but 𝓣hat won't stop me!” ( ◡̀_◡́)ᕤ
+“I’m the Deku who 𝒶lways does his best !” ♡⸝⸝
 
 </div>
 
