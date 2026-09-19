@@ -2,7 +2,7 @@
 
 ꒰ঌ ໒꒱
 
-<a href="https://lulupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
+<a href="https://luluupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
 
 <img src="Untitled239.png" width="450"><br>
 
