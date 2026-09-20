@@ -2,7 +2,7 @@
   <img
     width="38"
     alt="sticker"
-    src="https://maguro.carrd.co/assets/images/gallery01/de504a89_original.gif?v=10a293e5"
+    src="https://i.postimg.cc/DwXjcNpf/IMG-7902.gif"
   />
   &nbsp;&nbsp;
   <img
