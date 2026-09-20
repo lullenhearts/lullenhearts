@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    width="38"
+    width="25"
     alt="sticker"
     src="https://i.postimg.cc/DwXjcNpf/IMG-7902.gif"
   />
