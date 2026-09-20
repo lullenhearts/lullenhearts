@@ -21,6 +21,9 @@
 </p>
 
 <p align="center">
+
+ “  I'm the Deku who always does his best!  “<br>
+ 
   <sub>
     <a href="https://luluupt.straw.page">straw</a>
     &nbsp; ᛝ &nbsp;
