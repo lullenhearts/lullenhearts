@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img width="20" height="20" alt="sticker" src="https://i.postimg.cc/DwXjcNpf/IMG-7902.gif" />
+      <img width="30" height="30" alt="sticker" src="https://i.postimg.cc/DwXjcNpf/IMG-7902.gif" />
     </td>
     <td align="center" valign="middle">
       <table>
