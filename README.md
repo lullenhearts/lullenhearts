@@ -1,11 +1,22 @@
-<p align="center">
-  <img width="80" height="80" alt="sticker" src="https://maguro.carrd.co/assets/images/gallery01/de504a89_original.gif?v=10a293e5" />
-  &nbsp;&nbsp;
-  <sub>「(՞ ´ཀ` ՞) !! 20/08/26」</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img width="45" height="45" alt="sticker" src="https://maguro.carrd.co/assets/images/gallery01/de504a89_original.gif?v=10a293e5" />
+    </td>
+    <td align="center" valign="middle">
+      <table>
+        <tr>
+          <td bgcolor="#000000">
+            <span style="color:#ffffff;">(՞ ´ཀ` ՞) !! 20/08/26</span>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>13+ int only ⠀ ⠀ᰔ ︵ ⠀⠀⠀ 𝓁ulu . 出久</sub>
+  <span>13+ int only ⠀ ⠀ᰔ ︵ ⠀⠀⠀ 𝓁ulu . 出久</span>
 </p>
 
 <p align="center">
@@ -14,9 +25,7 @@
 </p>
 
 <p align="center">
-  <sub>
-    <a href="https://luluupt.straw.page">straw</a>
-    &nbsp; ᛝ &nbsp;
-    <a href="https://lullenhearts.atabook.org">ata</a>
-  </sub>
+  <a href="https://luluupt.straw.page">straw</a>
+  &nbsp; ᛝ &nbsp;
+  <a href="https://lullenhearts.atabook.org">ata</a>
 </p>
