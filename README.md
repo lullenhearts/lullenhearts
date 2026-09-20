@@ -17,13 +17,14 @@
 
 <p align="center">
   <!-- INSERT YOUR IMAGE HERE -->
-  <img width="550" alt="your image" src="Untitled239.png" />
+  <img width="550" alt="your image" src="YOUR_IMAGE_URL_HERE" />
 </p>
 
 <p align="center">
+  <sub>“ I'm the Deku who always does his best! ”</sub>
+</p>
 
- “  I'm the Deku who always does his best!  “<br>
- 
+<p align="center">
   <sub>
     <a href="https://luluupt.straw.page">straw</a>
     &nbsp; ᛝ &nbsp;
