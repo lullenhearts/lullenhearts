@@ -1,26 +1,22 @@
-<div align="center">
+<p align="center">
+  <img width="80" height="80" alt="sticker" src="https://maguro.carrd.co/assets/images/gallery01/de504a89_original.gif?v=10a293e5" />
+  &nbsp;&nbsp;
+  <sub>「(՞ ´ཀ` ՞) !! 20/08/26」</sub>
+</p>
 
-꒰ঌ ໒꒱
+<p align="center">
+  <sub>13+ int only ⠀ ⠀ᰔ ︵ ⠀⠀⠀ 𝓁ulu . 出久</sub>
+</p>
 
-<a href="https://luluupt.straw.page">strawpage</a> ⊹ ࣪ ˖ <a href="https://lullenhearts.atabook.org">ata</a>
+<p align="center">
+  <!-- INSERT YOUR IMAGE HERE -->
+  <img width="550" alt="your image" src="YOUR_IMAGE_URL_HERE" />
+</p>
 
-<img src="Untitled239.png" width="450"><br>
-
-“I’m the Deku who 𝒶lways does his best !” ♡⸝⸝
-
-</div>
-
-<!--
-**lullenhearts/lullenhearts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>
+    <a href="https://luluupt.straw.page">straw</a>
+    &nbsp; ᛝ &nbsp;
+    <a href="https://lullenhearts.atabook.org">ata</a>
+  </sub>
+</p>
