@@ -21,7 +21,7 @@
 
 <p align="center">
   <!-- INSERT YOUR IMAGE HERE -->
-  <img width="550" alt="your image" src="YOUR_IMAGE_URL_HERE" />
+  <img width="400" alt="your image" src="Untitled239.png" />
 </p>
 
 <p align="center">
