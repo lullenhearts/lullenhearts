@@ -7,7 +7,7 @@
       <table>
         <tr>
           <td bgcolor="#F8A9C0">
-            <span style="color:#ffffff;">(՞ ´ཀ` ՞) !! 20/08/26</span>
+            <span style="color:#F8A9C0;">(՞ ´ཀ` ՞) !! 20/08/26</span>
           </td>
         </tr>
       </table>
@@ -29,3 +29,5 @@
     ᛝ  
   <a href="https://lullenhearts.atabook.org">ata</a>
 </p>
+
+profile is a wip
