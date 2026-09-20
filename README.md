@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img width="20" height="20" alt="sticker" src="https://maguro.carrd.co/assets/images/gallery01/de504a89_original.gif?v=10a293e5" />
+      <img width="20" height="20" alt="sticker" src="https://i.postimg.cc/DwXjcNpf/IMG-7902.gif" />
     </td>
     <td align="center" valign="middle">
       <table>
