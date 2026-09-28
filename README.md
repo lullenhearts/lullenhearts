@@ -26,7 +26,7 @@
 
 <p align="center">
   <sub>
-    <a href="https://luluupt.straw.page">straw</a>
+    <a href="https://pronouns.cc/@Lullenhearts">prns</a>
     &nbsp; ᛝ &nbsp;
     <a href="https://lullenhearts.atabook.org">ata</a>
   </sub>
