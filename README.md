@@ -1,4 +1,9 @@
 <p align="center">
+  <!-- INSERT YOUR IMAGE HERE -->
+  <img width="550" alt="your image" src="Untitled435_20261012151817.png" />
+</p>
+
+<p align="center">
   <sub>
     <a href="https://pronouns.cc/@Lullenhearts">prns</a>
     &nbsp; ♡ &nbsp;
