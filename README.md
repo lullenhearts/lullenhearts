@@ -10,6 +10,6 @@
   <sub>
     <a href="https://pronouns.cc/@Lullenhearts">prns</a>
     &nbsp; ♡ &nbsp;
-    <a href="https://lullenhearts.atabook.org">ata</a>
+    <a href="https://lullenhearts.atabook.org">新book</a>
   </sub>
 </p>
