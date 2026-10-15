@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=%CB%98%CD%88%E1%B5%95%CB%98%CD%88&right_color=%23dad8be&format=true" />
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=%CB%98%CD%88%E1%B5%95%CB%98%CD%88&left_color=%23111302&right_color=%23BFB79E&format=true" />
 </p>
 
 <p align="center">
