@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="400" alt="your image" src="Untitled312_20261022182508.png" />
+  <img width="400" alt="your image" src="Untitled311_20261022181256.png" />
 </p>
 
 <p align="center">
