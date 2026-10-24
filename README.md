@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img width="400" alt="your image" src="Untitled311_20261022181256.png" />
-</p>
-
-<p align="center">
   <sub>
     <a href="https://pronouns.cc/@Lullenhearts">prns</a>
     &nbsp; ♡ &nbsp;
