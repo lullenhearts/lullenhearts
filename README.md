@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+I follow any fits I like or coolpeople I try to follow back sometimes
+feel free to int I like making friends
+</p>
+
+<p align="center">
   <sub>
     <a href="https://pronouns.cc/@Lullenhearts">prns</a>
     &nbsp; ♡ &nbsp;
