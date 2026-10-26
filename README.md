@@ -4,7 +4,7 @@
 
 <p align="center">
 I follow any fits I like or coolpeople I try to follow back sometimes
-</p>
+<p align="center">
 feel free to int I like making friends
 </p>
 
