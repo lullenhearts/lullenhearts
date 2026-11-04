@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="[https://i.postimg.cc/rsjygZGh/Sans-titre-328-20261104230633.png]" alt="image" />
+</p>
+
+<p align="center">
   <sub>
     I follow any fits/ppl I like<br>
     int I like making friends, c+h enc all the time
